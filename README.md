@@ -20,4 +20,13 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tejasxkoder/DSA-practice/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Tejasxkoder/DSA-practice/tree/main/0015-3sum/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Tejasxkoder/DSA-practice/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Tejasxkoder/DSA-practice/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
