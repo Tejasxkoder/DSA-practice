@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Tejasxkoder/DSA-practice/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Tejasxkoder/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Tejasxkoder/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Tejasxkoder/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Tejasxkoder/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
