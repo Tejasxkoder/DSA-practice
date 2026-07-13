@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tejasxkoder/DSA-practice/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Tejasxkoder/DSA-practice/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Tejasxkoder/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -46,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tejasxkoder/DSA-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
