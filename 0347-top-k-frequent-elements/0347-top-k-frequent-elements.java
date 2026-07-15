@@ -1,24 +1,18 @@
 class Solution {
 
-    public int[] topKFrequent(int[] nums, int k) {
-
-        HashMap<Integer, Integer> frequencyMap = new HashMap<>();
-
-        for (int num : nums) {
-            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+    public int[] topKFrequent(int[] nums, int k){
+        HashMap <Integer,Integer> FrequencyMap= new HashMap<>();
+        for(int num:nums){
+            FrequencyMap.put(num,FrequencyMap.getOrDefault(num,0)+1);
         }
+        PriorityQueue <Map.Entry<Integer,Integer>> maxHeap= new PriorityQueue <> ((a,b)->b.getValue()-a.getValue());
 
-        PriorityQueue<Map.Entry<Integer, Integer>> maxHeap =
-                new PriorityQueue<>(
-                        (a, b) -> b.getValue() - a.getValue()
-                );
+        maxHeap.addAll(FrequencyMap.entrySet());
 
-        maxHeap.addAll(frequencyMap.entrySet());
+        int [] answer = new int[k];
 
-        int[] answer = new int[k];
-
-        for (int i = 0; i < k; i++) {
-            answer[i] = maxHeap.poll().getKey();
+        for(int i=0;i<k;i++){
+            answer[i]=maxHeap.poll().getKey();
         }
         return answer;
     }
