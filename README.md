@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Tejasxkoder/DSA-practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejasxkoder/DSA-practice/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Tejasxkoder/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Tejasxkoder/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Tejasxkoder/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Tejasxkoder/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Tejasxkoder/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Tejasxkoder/DSA-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejasxkoder/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Tejasxkoder/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Tejasxkoder/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Tejasxkoder/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Tejasxkoder/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Tejasxkoder/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
