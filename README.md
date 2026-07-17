@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Tejasxkoder/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Tejasxkoder/DSA-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Tejasxkoder/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0994-rotting-oranges](https://github.com/Tejasxkoder/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Tejasxkoder/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/Tejasxkoder/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Tejasxkoder/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/Tejasxkoder/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
