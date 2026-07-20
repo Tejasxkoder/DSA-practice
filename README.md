@@ -104,11 +104,13 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Tejasxkoder/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tejasxkoder/DSA-practice/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Tejasxkoder/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tejasxkoder/DSA-practice/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tejasxkoder/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -132,8 +134,10 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Tejasxkoder/DSA-practice/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Tejasxkoder/DSA-practice/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
