@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejasxkoder/DSA-practice/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Tejasxkoder/DSA-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Tejasxkoder/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0133-clone-graph](https://github.com/Tejasxkoder/DSA-practice/tree/main/0133-clone-graph/) | Medium |
 | [0217-contains-duplicate](https://github.com/Tejasxkoder/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Tejasxkoder/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
@@ -104,12 +105,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/Tejasxkoder/DSA-practice/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Tejasxkoder/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tejasxkoder/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/Tejasxkoder/DSA-practice/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Tejasxkoder/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tejasxkoder/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/Tejasxkoder/DSA-practice/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Tejasxkoder/DSA-practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0210-course-schedule-ii/) | Medium |
 ## Topological Sort
