@@ -36,12 +36,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Tejasxkoder/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Tejasxkoder/DSA-practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Tejasxkoder/DSA-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Tejasxkoder/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tejasxkoder/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Tejasxkoder/DSA-practice/tree/main/0015-3sum/) | Medium |
+| [0283-move-zeroes](https://github.com/Tejasxkoder/DSA-practice/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
