@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejasxkoder/DSA-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Tejasxkoder/DSA-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Tejasxkoder/DSA-practice/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Tejasxkoder/DSA-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Tejasxkoder/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0015-3sum](https://github.com/Tejasxkoder/DSA-practice/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Tejasxkoder/DSA-practice/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0189-rotate-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tejasxkoder/DSA-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
