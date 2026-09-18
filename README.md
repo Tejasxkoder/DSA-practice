@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Tejasxkoder/DSA-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Tejasxkoder/DSA-practice/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Tejasxkoder/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tejasxkoder/DSA-practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0454-4sum-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0525-contiguous-array/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tejasxkoder/DSA-practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Tejasxkoder/DSA-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Tejasxkoder/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tejasxkoder/DSA-practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0414-third-maximum-number](https://github.com/Tejasxkoder/DSA-practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0454-4sum-ii/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Tejasxkoder/DSA-practice/tree/main/0268-missing-number/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tejasxkoder/DSA-practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tejasxkoder/DSA-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -192,4 +195,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Tejasxkoder/DSA-practice/tree/main/0075-sort-colors/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tejasxkoder/DSA-practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tejasxkoder/DSA-practice/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
