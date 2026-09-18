@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tejasxkoder/DSA-practice/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Tejasxkoder/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0454-4sum-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0454-4sum-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Tejasxkoder/DSA-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Tejasxkoder/DSA-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/Tejasxkoder/DSA-practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0454-4sum-ii](https://github.com/Tejasxkoder/DSA-practice/tree/main/0454-4sum-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Tejasxkoder/DSA-practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Tejasxkoder/DSA-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tejasxkoder/DSA-practice/tree/main/0994-rotting-oranges/) | Medium |
